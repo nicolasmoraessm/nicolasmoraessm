@@ -113,7 +113,7 @@ Me chamo Nicolas, tenho 21 anos e sou de Sáo Paulo. Concluí o ensino médio em
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmoraessm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
   
