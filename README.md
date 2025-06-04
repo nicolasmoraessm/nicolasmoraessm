@@ -12,7 +12,7 @@ Me chamo Nicolas, tenho 21 anos e sou de Sáo Paulo. Concluí o ensino médio em
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCARnse1-A-fMQuZjFXP4LSg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@nicolasmoraessm">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
