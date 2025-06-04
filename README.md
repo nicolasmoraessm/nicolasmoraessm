@@ -98,7 +98,8 @@ Me chamo Nicolas, tenho 21 anos e sou de Sáo Paulo. Concluí o ensino médio em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
+<br>
+<br>
 ### Estatísticas
 
 <p>
